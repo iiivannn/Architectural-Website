@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --biggest-font: 2rem;
+  --bigger-font: 1.5rem;
+  --big-font: 1.2rem;
+  --normal-font: 1rem;
+  --small-font: 0.9rem;
+  --smaller-font: 0.85rem;
+  --smallest-font: 0.78rem;
+  --font-family: "Oswald", sans-serif;
+}/*# sourceMappingURL=app.css.map */
